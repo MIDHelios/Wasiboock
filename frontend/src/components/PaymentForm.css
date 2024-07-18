@@ -1,0 +1,23 @@
+/* PaymentForm.css */
+.payment-form {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .payment-form h4 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .payment-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .payment-form .btn-primary {
+    width: 100%;
+  }
+  
